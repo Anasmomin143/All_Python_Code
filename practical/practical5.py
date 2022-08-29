@@ -1,0 +1,11 @@
+import math
+a=int(input("Enter I No.="))
+b=float(input("Enter I No.="))
+print("operation of int value")
+print("Square=",a*a)
+print("SQ root=",math.sqrt(a))
+print("Cube=",a*a*a)
+print("operation of float value")
+print("Square=",b*b)
+print("SQ root=",math.sqrt(b))
+print("Cube=",b*b*b)

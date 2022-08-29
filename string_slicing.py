@@ -1,0 +1,10 @@
+s="Maharashra"
+print(s[1:])
+s="Maharashra"
+print(s[:3])
+s="Maharashra"
+print(s[2:5])
+s="Maharashra"
+print(s[2:8:3])
+s="Maharashra"
+print(s[::-7])

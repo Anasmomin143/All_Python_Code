@@ -1,0 +1,6 @@
+d1=(101,'xyz',78.9)
+d2=(102,'Abc',99.1)
+print("All value=",d1,d2)
+d3=(d1+d2)
+print("New Tuple=",d3)
+print(d1*2)
